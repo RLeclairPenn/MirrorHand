@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# This is Mirror Hand!
+### By: Rafael Gerkhe and Raul Leclair
 
-You can use the [editor on GitHub](https://github.com/RLeclairPenn/MirrorHand/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently available prosthetics are either completely mechanical, with limited independent movement between joints, or costs thousands of dollars and require surgery to create an interface between nerves and the system. **Mirror Hand** proposes a way of improving low-cost prosthetics in cases where the user has an able hand, so that we can have it control the movements of the prosthetic. Therefore, adding functionality to the prosthetic by giving greater control over the prosthetic fingers to the user. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RLeclairPenn/MirrorHand/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Week 1
+We have started constructing the glove which will have the flex sensors that will give us the position of the able hand's fingers in order to translate them to a prosthetic. So far we have sewed the flex sensors into a glove.
