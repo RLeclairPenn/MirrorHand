@@ -7,6 +7,10 @@ If you would like to see our devpost follow the link:
 
 [Demo](https://devpost.com/software/mirror-hand)
 
+This is the link to our reach demo presentation:
+
+[Final Presentation](https://docs.google.com/presentation/d/12yiPVB1JTybEvHf2WaxvcHAZ0kRL8tO2UTTAW7KWHGY/edit?usp=sharing)
+
 If you would like to see the videos we prepared for our demo:
 
 [Rafael forgetting his Wawa Bag](https://www.youtube.com/watch?v=0YRK3EDscS8)
