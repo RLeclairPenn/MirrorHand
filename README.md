@@ -23,15 +23,21 @@ We started constructing the glove which will have the flex sensors (SparkFun SEN
 
 We connected the sensors to a multimeter to measure the resistance and check if it changed when we flexed which it did.
 
-[Insert April10_2] and [Insert April0_3]
+<img src="April10_2.jpg" width="200" /> 
+
+and 
+
+<img src="April10_3.jpg" width="200" />
 
 We learned that flex sensors are not entirely flexible when all five of the flex sensors we had broke. The reason they broke being that one of the "flexible" parts is not supposed to be flexed and if it is flexed there is a risk that the thin metallic sheet is broken as shown below. 
 
-[Insert April10_5]
+<img src="April10_5.jpg" width="200" />
 
 ### April 11
 
 With the flex sensors broken, we had to disarm the glove entirely. Luckily for us we had an extra flex sensor. We used the following equation to be able to calibrate the sensor on the range of 0-100 for better use. 
+
+<img src="April11_1.jpg" width="200" />
 
 ## Week 2
 
