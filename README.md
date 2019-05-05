@@ -109,7 +109,7 @@ We also attached the servos to the printed forearm so it would look something li
 
 <img src="April25_6.jpg" width="200" />
 
-As we tested the servo we realized that the yellow string was too thick to work properly and it caused to much friction in between the components. We decided to change the yellow string to nylon and connected the nylon to each of the servos. An example connection is shown below.
+As we tested the servo we realized that the yellow string was too thick to work properly and it caused too much friction in between the components. We decided to change the yellow string to nylon and connected the nylon to each of the servos. An example connection is shown below.
 
 <img src="April25_8.jpg" width="200" />
 
