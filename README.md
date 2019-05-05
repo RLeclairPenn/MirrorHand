@@ -3,6 +3,15 @@
 
 Currently available prosthetics are either completely mechanical, with limited independent movement between joints, or costs thousands of dollars and require surgery to create an interface between nerves and the system. **Mirror Hand** proposes a way of improving low-cost prosthetics in cases where the user has an able hand, so that we can have it control the movements of the prosthetic. Therefore, adding functionality to the prosthetic by giving greater control over the prosthetic fingers to the user. 
 
+If you would like to see the videos we prepared for our demo:
+
+Rafael forgetting his Wawa Bag: https://www.youtube.com/watch?v=0YRK3EDscS8
+
+Opening a glue bottle: https://www.youtube.com/watch?v=HV1luiP_14o
+
+Rafael hydrating: https://www.youtube.com/watch?v=bbDRLOT-rF0
+
+
 
 ## Week 1 
 
@@ -80,6 +89,63 @@ to this:
 
 What the circuit for the glove does is it has 5 voltage dividers that are connected to individual analog in pins on the mBed. From there we read in the values of the flexing and standardize them to a value from 0-100. Once that is done, we send the data in a specific format to the prosthetic hand's mBed. In the protoboard, we added two additional components, one for power so that it is easy to connect a battery and a diode so that the circuit is not fried in case the battery is oriented the wrong way.
 
+With the protoboard done, we attached it to the glove to get the final version which is shown here:
 
+[Insert April25_14]
+
+We also attached the servos to the printed forearm so it would look something like the following (mind this only has one servo):
+
+[Insert April25_6]
+
+As we tested the servo we realized that the yellow string was too thick to work properly and it caused to much friction in between the components. We decided to change the yellow string to nylon and connected the nylon to each of the servos. An example connection is shown below.
+
+[Insert April25_8]
+
+To test the connection we just attached one servo to only one finger and tested to see if it worked properly. Once it did we continued on to the next fingers. Below is a sample of one of the fingers working.
+
+[Insert April25_10]
+
+With that done, we attached all of the servos to the prosthetic hand and properly mapped the fingers. With some testing and calibration we achieved the following results:
+
+Insert[April25_11]
+
+We also translated the circuit for the prosthetic into a protoboard which is shown below:
+
+Insert[May01_1]
+
+Insert[May02_2]
+
+The circuit here is the final version of the prostethic's circuit. It contains 5 voltage regulators (one is underneath the mBed) that regulate the voltage outputted by the battery to the servos. The servos are connected to pins that have an output to regulate how much they have to move. Beneath the mBed there is also the bluetooth (HC05) device to communicate. There is also the pins to connect the battery and a diode to prevent reverse current. Later on we added the button and potentiometer. 
+
+Once we connected the protoboard we achieved the following:
+
+We managed to grab a semi crushed can of soda:
+
+Insert[April25_12]
+
+We also managed to grab a charger:
+
+[Insert April25_13]
+
+### April 26
+After adjusting some of the strings, adding rubber bands and silicone to the prosthetics finger tip and added a button that freezes the hand in position we accomplished the following:
+
+[Insert April26_5]
+
+## Week 4
+
+### April 30
+
+Now that the mirror hand is basically completed, we added a handle to the prosthetic so that it is easier to demo. We also attached the prosthetic's protoboard to the forearm. Additionally we added and tested the potentiometer which based on how much resistance it is outputting will delay the freezing of the hand when the button is pressed. Basically, it is a timer that is activated when the button is pressed. When the timer is over the hand is frozen. We also made the glove have longer cables to provide more comfort to the wearer.
+
+The final model of the prosthetic:
+
+[Insert FinalProsthetic]
+
+The final model of the glove:
+
+[Insert FinalGlove]
+
+The use of the potentiometer can be viewed in the demo videos at the start of this blog (the summary).
 
 
