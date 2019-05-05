@@ -5,13 +5,11 @@ Currently available prosthetics are either completely mechanical, with limited i
 
 If you would like to see the videos we prepared for our demo:
 
-Rafael forgetting his Wawa Bag: https://www.youtube.com/watch?v=0YRK3EDscS8
+[Rafael forgetting his Wawa Bag](https://www.youtube.com/watch?v=0YRK3EDscS8)
 
-Opening a glue bottle: https://www.youtube.com/watch?v=HV1luiP_14o
+[Opening a glue bottle](https://www.youtube.com/watch?v=HV1luiP_14o)
 
-Rafael hydrating: https://www.youtube.com/watch?v=bbDRLOT-rF0
-
-
+[Rafael hydrating](https://www.youtube.com/watch?v=bbDRLOT-rF0)
 
 ## Week 1 
 
@@ -54,11 +52,11 @@ Nonetheless, we assembled it and started tying the strings to the fingers. We us
 
 Once one of the fingers was tied up we attached it to a servo and had it flex and unflex the finger.
 
-https://drive.google.com/open?id=19mX_W0QC6j4kVVqLOugXlRA_SU5m_iA7
+[Single servo flex and unflex](https://drive.google.com/open?id=19mX_W0QC6j4kVVqLOugXlRA_SU5m_iA7)
 
 Additionally, we set up the bluetooth modules (HC05) to communicate exclusively with each other. We connected them to two different mBeds and had them communicate. Once we were able to send messages in between the mBeds we started sending the data from the glove to the mBed that would control the prosthetic. We were succesful in doing so and were able to control the one finger we tied with our thumb as shown below.
 
-https://drive.google.com/open?id=1ojdNbkRhKMN2mmn3O3QLXikwEEP6dUp5
+[Single servo control](https://drive.google.com/open?id=1ojdNbkRhKMN2mmn3O3QLXikwEEP6dUp5)
 
 ### April 19
 We finished connecting all the fingers with the strings necessary and were able to contract the fingers properly.
@@ -83,7 +81,7 @@ We used a 3D pen (AIO Robototics) to design the model for the forearm.
 
 Here is a timelapse of the first half of the model being printed by hand.
 
-https://drive.google.com/open?id=1eanfb6vTMRd2x70VmZ8bodqPWjkGvtUM
+[Timelapse](https://drive.google.com/open?id=1eanfb6vTMRd2x70VmZ8bodqPWjkGvtUM)
 
 Additionally, we started working on translating our circuits to a protoboard. First we started witht the glove's circuit. We went from this:
 
@@ -109,11 +107,11 @@ As we tested the servo we realized that the yellow string was too thick to work 
 
 To test the connection we just attached one servo to only one finger and tested to see if it worked properly. Once it did we continued on to the next fingers. Below is a sample of one of the fingers working.
 
-https://drive.google.com/open?id=1JarrwTDIcHrwseR-gM_5AmVRkvR8ACA0
+[New string and attached servo one finger test](https://drive.google.com/open?id=1JarrwTDIcHrwseR-gM_5AmVRkvR8ACA0)
 
 With that done, we attached all of the servos to the prosthetic hand and properly mapped the fingers. With some testing and calibration we achieved the following results:
 
-https://drive.google.com/open?id=1-u4BnyaTMEHRaD3quk0cQr0L1QpWALiG
+[Complete mapping and moving of fingers](https://drive.google.com/open?id=1-u4BnyaTMEHRaD3quk0cQr0L1QpWALiG)
 
 We also translated the circuit for the prosthetic into a protoboard which is shown below:
 
@@ -127,16 +125,16 @@ Once we connected the protoboard we achieved the following:
 
 We managed to grab a semi crushed can of soda:
 
-https://drive.google.com/open?id=1Uu3Tx1GiGvv0GM1LdBSxYuu48WjgUxxI
+[Semi-crushed can of soda demo](https://drive.google.com/open?id=1Uu3Tx1GiGvv0GM1LdBSxYuu48WjgUxxI)
 
 We also managed to grab a charger:
 
-https://drive.google.com/open?id=1XilTxWhk8359-4vejozbHYngjJhEmfSY
+[Charger grab demo](https://drive.google.com/open?id=1XilTxWhk8359-4vejozbHYngjJhEmfSY)
 
 ### April 26
 After adjusting some of the strings, adding rubber bands and silicone to the prosthetics finger tip and added a button that freezes the hand in position we accomplished the following:
 
-https://drive.google.com/open?id=1nq7BSXqMaRC6E-uoDkeRZThShKKtKox_
+[First freeze demo](https://drive.google.com/open?id=1nq7BSXqMaRC6E-uoDkeRZThShKKtKox_)
 
 ## Week 4
 
