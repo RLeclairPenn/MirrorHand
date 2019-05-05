@@ -46,11 +46,11 @@ The flex sensors arrived and we secured the place at which they could break with
 
 Over the weekend we printed the open-source prosthetic hand (https://www.thingiverse.com/thing:596966) which ended up being somewhat smaller than we predicted. 
 
-[Insert April18_1]
+<img src="April18_1.jpg" width="200" />
 
 Nonetheless, we assembled it and started tying the strings to the fingers. We used some flexible string we bought and yellow cord from Detkin.
 
-[Insert April18_2]
+<img src="April18_2.jpg" width="200" />
 
 Once one of the fingers was tied up we attached it to a servo and had it flex and unflex the finger.
 
@@ -63,11 +63,11 @@ Additionally, we set up the bluetooth modules (HC05) to communicate exclusively 
 ### April 19
 We finished connecting all the fingers with the strings necessary and were able to contract the fingers properly.
 
-[Insert April19_2]
+<img src="April19_2.jpg" width="200" />
 
 We also mapped the flex sensors to each individual servo. We have 5 of them (TowerPro SG92R). 
 
-[Insert April19_3]
+<img src="April19_3.jpg" width="200" />
 
 ## Week 3
 
