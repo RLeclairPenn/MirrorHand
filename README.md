@@ -3,6 +3,10 @@
 
 Currently available prosthetics are either completely mechanical, with limited independent movement between joints, or costs thousands of dollars and require surgery to create an interface between nerves and the system. **Mirror Hand** proposes a way of improving low-cost prosthetics in cases where the user has an able hand, so that we can have it control the movements of the prosthetic. Therefore, adding functionality to the prosthetic by giving greater control over the prosthetic fingers to the user. 
 
+If you would like to see our devpost follow the link:
+
+[Demo](https://devpost.com/software/mirror-hand)
+
 If you would like to see the videos we prepared for our demo:
 
 [Rafael forgetting his Wawa Bag](https://www.youtube.com/watch?v=0YRK3EDscS8)
