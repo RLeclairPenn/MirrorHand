@@ -83,7 +83,7 @@ We used a 3D pen (AIO Robototics) to design the model for the forearm.
 
 Here is a timelapse of the first half of the model being printed by hand.
 
-<img src="April25_7.jpg" width="200" />
+April25_7
 
 Additionally, we started working on translating our circuits to a protoboard. First we started witht the glove's circuit. We went from this:
 
@@ -146,11 +146,11 @@ Now that the mirror hand is basically completed, we added a handle to the prosth
 
 The final model of the prosthetic:
 
-[Insert FinalProsthetic]
+<img src="FinalProsthetic.png" width="200" />
 
 The final model of the glove:
 
-[Insert FinalGlove]
+<img src="FinalGlove.png" width="200" />
 
 The use of the potentiometer can be viewed in the demo videos at the start of this blog (the summary).
 
