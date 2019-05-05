@@ -63,11 +63,11 @@ Additionally, we set up the bluetooth modules (HC05) to communicate exclusively 
 ### April 19
 We finished connecting all the fingers with the strings necessary and were able to contract the fingers properly.
 
-<img src="April19_2.jpg" width="200" />
+<img src="April19_2.JPG" width="200" />
 
 We also mapped the flex sensors to each individual servo. We have 5 of them (TowerPro SG92R). 
 
-<img src="April19_3.jpg" width="200" />
+<img src="April19_3.JPG" width="200" />
 
 ## Week 3
 
