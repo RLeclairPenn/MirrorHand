@@ -19,7 +19,7 @@ Rafael hydrating: https://www.youtube.com/watch?v=bbDRLOT-rF0
 
 We started constructing the glove which will have the flex sensors (SparkFun SEN-10264) that will give us the position of the able hand's fingers in order to translate them to a prosthetic. So far we have sewed the flex sensors into a glove.
 
-[Insert April 10_1]
+<img src="April10_1.jpg" width="800" />
 
 We connected the sensors to a multimeter to measure the resistance and check if it changed when we flexed which it did.
 
