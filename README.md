@@ -56,3 +56,30 @@ We also mapped the flex sensors to each individual servo. We have 5 of them (Tow
 
 ## Week 3
 
+### April 25
+
+[Insert April25_1]
+
+It was now time to attach the motors to the hand and be able to control the prosthetic with the glove.
+
+We used a 3D pen (AIO Robototics) to design the model for the forearm. 
+
+[Insert April 25_2]
+
+Here is a timelapse of the first half of the model being printed by hand.
+
+[Insert April25_7]
+
+Additionally, we started working on translating our circuits to a protoboard. First we started witht the glove's circuit. We went from this:
+
+[Insert April25_4]
+
+to this:
+
+[Insert April25_5]
+
+What the circuit for the glove does is it has 5 voltage dividers that are connected to individual analog in pins on the mBed. From there we read in the values of the flexing and standardize them to a value from 0-100. Once that is done, we send the data in a specific format to the prosthetic hand's mBed. In the protoboard, we added two additional components, one for power so that it is easy to connect a battery and a diode so that the circuit is not fried in case the battery is oriented the wrong way.
+
+
+
+
