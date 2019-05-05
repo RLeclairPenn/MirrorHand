@@ -73,39 +73,39 @@ We also mapped the flex sensors to each individual servo. We have 5 of them (Tow
 
 ### April 25
 
-[Insert April25_1]
+<img src="April25_1.jpg" width="200" />
 
 It was now time to attach the motors to the hand and be able to control the prosthetic with the glove.
 
 We used a 3D pen (AIO Robototics) to design the model for the forearm. 
 
-[Insert April 25_2]
+<img src="April25_2.jpg" width="200" />
 
 Here is a timelapse of the first half of the model being printed by hand.
 
-[Insert April25_7]
+<img src="April25_7.jpg" width="200" />
 
 Additionally, we started working on translating our circuits to a protoboard. First we started witht the glove's circuit. We went from this:
 
-[Insert April25_4]
+<img src="April25_4.JPG" width="200" />
 
 to this:
 
-[Insert April25_5]
+<img src="April25_5.JPG" width="200" />
 
 What the circuit for the glove does is it has 5 voltage dividers that are connected to individual analog in pins on the mBed. From there we read in the values of the flexing and standardize them to a value from 0-100. Once that is done, we send the data in a specific format to the prosthetic hand's mBed. In the protoboard, we added two additional components, one for power so that it is easy to connect a battery and a diode so that the circuit is not fried in case the battery is oriented the wrong way.
 
 With the protoboard done, we attached it to the glove to get the final version which is shown here:
 
-[Insert April25_14]
+<img src="April25_14.jpg" width="200" />
 
 We also attached the servos to the printed forearm so it would look something like the following (mind this only has one servo):
 
-[Insert April25_6]
+<img src="April25_6.jpg" width="200" />
 
 As we tested the servo we realized that the yellow string was too thick to work properly and it caused to much friction in between the components. We decided to change the yellow string to nylon and connected the nylon to each of the servos. An example connection is shown below.
 
-[Insert April25_8]
+<img src="April25_8.jpg" width="200" />
 
 To test the connection we just attached one servo to only one finger and tested to see if it worked properly. Once it did we continued on to the next fingers. Below is a sample of one of the fingers working.
 
@@ -117,9 +117,9 @@ Insert[April25_11]
 
 We also translated the circuit for the prosthetic into a protoboard which is shown below:
 
-Insert[May01_1]
+<img src="May01_1.jpg" width="200" />
 
-Insert[May02_2]
+<img src="May01_2.jpg" width="200" />
 
 The circuit here is the final version of the prostethic's circuit. It contains 5 voltage regulators (one is underneath the mBed) that regulate the voltage outputted by the battery to the servos. The servos are connected to pins that have an output to regulate how much they have to move. Beneath the mBed there is also the bluetooth (HC05) device to communicate. There is also the pins to connect the battery and a diode to prevent reverse current. Later on we added the button and potentiometer. 
 
